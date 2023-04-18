@@ -1,0 +1,15 @@
+{
+  "name": "api_example",
+  "version": "0.1.0",
+  "description": "Example API using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joey M.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
